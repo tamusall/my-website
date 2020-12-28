@@ -1,0 +1,42 @@
+INFO  2020-12-28T16:45:49.728 30545 set_init_2:754: startup runtimepath/packpath value: /Users/travis/.config/nvim,/etc/xdg/nvim,/Users/travis/.local/share/nvim/site,/usr/local/share/nvim/site,/usr/share/nvim/site,/usr/local/share/nvim/runtime,/usr/local/lib/nvim,/usr/share/nvim/site/after,/usr/local/share/nvim/site/after,/Users/travis/.local/share/nvim/site/after,/etc/xdg/nvim/after,/Users/travis/.config/nvim/after
+INFO  2020-12-28T16:45:49.948 30545 channel_create_event:204: new channel 3 (function coc#rpc#start_server[17]..<SNR>24_start:55) : {"id": 3, "client": {}, "mode": "rpc", "stream": "job"}
+INFO  2020-12-28T16:45:50.307 30545 main:559: starting main loop
+INFO  2020-12-28T16:50:16.395 30545 channel_create_event:204: new channel 4 (function airline#extensions#branch#get_head[1]..airline#extensions#branch#head[6]..<SNR>56_update_untracked[38]..airline#async#vcs_untracked[6]..airline#async#nvim_vcs_untracked:19) : {"id": 4, "mode": "bytes", "stream": "job"}
+INFO  2020-12-28T16:50:16.398 30545 channel_create_event:204: new channel 5 (function airline#extensions#branch#get_head[1]..airline#extensions#branch#head[6]..<SNR>56_update_untracked[42]..airline#async#vcs_clean[6]..airline#async#nvim_vcs_clean:24) : {"id": 5, "mode": "bytes", "stream": "job"}
+INFO  2020-12-28T16:50:16.413 30545 on_process_exit:393: exited: pid=30581 status=0 stoptime=0
+INFO  2020-12-28T16:50:16.413 30545 on_process_exit:393: exited: pid=30582 status=0 stoptime=0
+INFO  2020-12-28T16:50:57.688 30545 emsg_multiline:681: E37: No write since last change
+INFO  2020-12-28T16:50:57.688 30545 emsg_multiline:681: E162: No write since last change for buffer "pages/_app.js"
+INFO  2020-12-28T16:50:59.157 30545 os_proc_tree_kill:96: sending SIGTERM to PID -30547
+INFO  2020-12-28T16:50:59.168 30545 on_process_exit:393: exited: pid=30547 status=143 stoptime=9923746278746
+INFO  2020-12-28T16:50:59.168 30545 os_exit:586: Nvim exit: 0
+INFO  2020-12-28T16:51:00.713 30631 set_init_2:754: startup runtimepath/packpath value: /Users/travis/.config/nvim,/etc/xdg/nvim,/Users/travis/.local/share/nvim/site,/usr/local/share/nvim/site,/usr/share/nvim/site,/usr/local/share/nvim/runtime,/usr/local/lib/nvim,/usr/share/nvim/site/after,/usr/local/share/nvim/site/after,/Users/travis/.local/share/nvim/site/after,/etc/xdg/nvim/after,/Users/travis/.config/nvim/after
+INFO  2020-12-28T16:51:00.843 30631 channel_create_event:204: new channel 3 (function coc#rpc#start_server[17]..<SNR>24_start:55) : {"id": 3, "client": {}, "mode": "rpc", "stream": "job"}
+INFO  2020-12-28T16:51:01.070 30631 main:559: starting main loop
+INFO  2020-12-28T16:52:45.295 30631 channel_create_event:204: new channel 4 (function airline#extensions#branch#get_head[1]..airline#extensions#branch#head[6]..<SNR>56_update_untracked[38]..airline#async#vcs_untracked[6]..airline#async#nvim_vcs_untracked:19) : {"id": 4, "mode": "bytes", "stream": "job"}
+INFO  2020-12-28T16:52:45.297 30631 channel_create_event:204: new channel 5 (function airline#extensions#branch#get_head[1]..airline#extensions#branch#head[6]..<SNR>56_update_untracked[42]..airline#async#vcs_clean[6]..airline#async#nvim_vcs_clean:24) : {"id": 5, "mode": "bytes", "stream": "job"}
+INFO  2020-12-28T16:52:45.309 30631 on_process_exit:393: exited: pid=30639 status=0 stoptime=0
+INFO  2020-12-28T16:52:45.310 30631 on_process_exit:393: exited: pid=30640 status=0 stoptime=0
+INFO  2020-12-28T16:53:15.036 30631 channel_create_event:204: new channel 6 (function airline#extensions#branch#get_head[1]..airline#extensions#branch#head[6]..<SNR>56_update_untracked[38]..airline#async#vcs_untracked[6]..airline#async#nvim_vcs_untracked:19) : {"id": 6, "mode": "bytes", "stream": "job"}
+INFO  2020-12-28T16:53:15.038 30631 channel_create_event:204: new channel 7 (function airline#extensions#branch#get_head[1]..airline#extensions#branch#head[6]..<SNR>56_update_untracked[42]..airline#async#vcs_clean[6]..airline#async#nvim_vcs_clean:24) : {"id": 7, "mode": "bytes", "stream": "job"}
+INFO  2020-12-28T16:53:15.052 30631 on_process_exit:393: exited: pid=30641 status=0 stoptime=0
+INFO  2020-12-28T16:53:15.052 30631 on_process_exit:393: exited: pid=30642 status=0 stoptime=0
+INFO  2020-12-28T16:53:43.209 30631 channel_create_event:204: new channel 8 (function airline#extensions#branch#get_head[1]..airline#extensions#branch#head[6]..<SNR>56_update_untracked[38]..airline#async#vcs_untracked[6]..airline#async#nvim_vcs_untracked:19) : {"id": 8, "mode": "bytes", "stream": "job"}
+INFO  2020-12-28T16:53:43.211 30631 channel_create_event:204: new channel 9 (function airline#extensions#branch#get_head[1]..airline#extensions#branch#head[6]..<SNR>56_update_untracked[42]..airline#async#vcs_clean[6]..airline#async#nvim_vcs_clean:24) : {"id": 9, "mode": "bytes", "stream": "job"}
+INFO  2020-12-28T16:53:43.226 30631 on_process_exit:393: exited: pid=30650 status=0 stoptime=0
+INFO  2020-12-28T16:53:43.226 30631 on_process_exit:393: exited: pid=30651 status=0 stoptime=0
+INFO  2020-12-28T16:53:44.609 30631 channel_create_event:204: new channel 10 (function airline#extensions#branch#get_head[1]..airline#extensions#branch#head[6]..<SNR>56_update_untracked[38]..airline#async#vcs_untracked[6]..airline#async#nvim_vcs_untracked:19) : {"id": 10, "mode": "bytes", "stream": "job"}
+INFO  2020-12-28T16:53:44.611 30631 channel_create_event:204: new channel 11 (function airline#extensions#branch#get_head[1]..airline#extensions#branch#head[6]..<SNR>56_update_untracked[42]..airline#async#vcs_clean[6]..airline#async#nvim_vcs_clean:24) : {"id": 11, "mode": "bytes", "stream": "job"}
+INFO  2020-12-28T16:53:44.628 30631 on_process_exit:393: exited: pid=30652 status=0 stoptime=0
+INFO  2020-12-28T16:53:44.628 30631 on_process_exit:393: exited: pid=30653 status=0 stoptime=0
+INFO  2020-12-28T16:53:54.481 30631 channel_create_event:204: new channel 12 (function airline#extensions#branch#get_head[1]..airline#extensions#branch#head[6]..<SNR>56_update_untracked[38]..airline#async#vcs_untracked[6]..airline#async#nvim_vcs_untracked:19) : {"id": 12, "mode": "bytes", "stream": "job"}
+INFO  2020-12-28T16:53:54.482 30631 channel_create_event:204: new channel 13 (function airline#extensions#branch#get_head[1]..airline#extensions#branch#head[6]..<SNR>56_update_untracked[42]..airline#async#vcs_clean[6]..airline#async#nvim_vcs_clean:24) : {"id": 13, "mode": "bytes", "stream": "job"}
+INFO  2020-12-28T16:53:54.497 30631 on_process_exit:393: exited: pid=30654 status=0 stoptime=0
+INFO  2020-12-28T16:53:54.497 30631 on_process_exit:393: exited: pid=30655 status=0 stoptime=0
+INFO  2020-12-28T16:59:07.163 30631 channel_create_event:204: new channel 14 (function airline#extensions#branch#get_head[1]..airline#extensions#branch#head[6]..<SNR>56_update_untracked[38]..airline#async#vcs_untracked[6]..airline#async#nvim_vcs_untracked:19) : {"id": 14, "mode": "bytes", "stream": "job"}
+INFO  2020-12-28T16:59:07.165 30631 channel_create_event:204: new channel 15 (function airline#extensions#branch#get_head[1]..airline#extensions#branch#head[6]..<SNR>56_update_untracked[42]..airline#async#vcs_clean[6]..airline#async#nvim_vcs_clean:24) : {"id": 15, "mode": "bytes", "stream": "job"}
+INFO  2020-12-28T16:59:07.178 30631 on_process_exit:393: exited: pid=31544 status=0 stoptime=0
+INFO  2020-12-28T16:59:07.179 30631 on_process_exit:393: exited: pid=31545 status=0 stoptime=0
+INFO  2020-12-28T16:59:49.672 30631 os_proc_tree_kill:96: sending SIGTERM to PID -30632
+INFO  2020-12-28T16:59:49.682 30631 on_process_exit:393: exited: pid=30632 status=143 stoptime=10454258790808
+INFO  2020-12-28T16:59:49.682 30631 os_exit:586: Nvim exit: 0
